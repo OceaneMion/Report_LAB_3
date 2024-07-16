@@ -2,7 +2,7 @@ My internship focused on the creation of a bioinformatic pipeline to study the a
 
 * Nanopore Sequencing of 11 P.destructans isolates + outgroup (already performed See [Nanopore_Sequencing](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/1%29%20Nanopore_Sequencing.ipynb))
 
-* Basecalling (Dorado, Guppy) (See [Basecalling](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/2)%20Basecalling.ipynb)
+* Basecalling (Dorado, Guppy) (See [Basecalling](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/2%29%20Basecalling.ipynb))
 * Assemblies contructs from basecalls reads
 * Polishing of Assemblies
 * Contaminants removal
