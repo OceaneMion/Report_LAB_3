@@ -1,6 +1,6 @@
 My internship focused on the creation of a bioinformatic pipeline to study the association between methylation and transposable elements (TEs) in P.destructans:
 
-* Nanopore Sequencing of 11 P.destructans isolates + outgroup (already performed)
+* Nanopore Sequencing of 11 P.destructans isolates + outgroup (already performed See https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/1)%20Nanopore_Sequencing.ipynb)
 * Basecalling (Dorado, Guppy)
 * Assemblies contructs from basecalls reads
 * Polishing of Assemblies
