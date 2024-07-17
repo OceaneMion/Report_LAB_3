@@ -7,8 +7,6 @@
 </div>
 
 
-Photography of a bat infected by Pseudogymnoascus destructans (National Park Service)
-
 
 
 
@@ -31,6 +29,10 @@ My internship focused on the creation of a bioinformatic pipeline to study the a
 * Methylation analysis (See [Methylation](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/9%29%20Methylation_analysis.ipynb))
 * TEs analysis (See [TEs](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/10%29%20TEs_analysis.ipynb))
 * Association between methylation and TEs(TO BE UPLOAD SOON)
-  
-![alt text](https://github.com/OceaneMion/Report_LAB_3/blob/main/Images/workflow.png)
 
+<div align="center">
+  <img src="https://github.com/OceaneMion/Report_LAB_3/blob/main/Images/workflow.png" alt="bat" width="800"/>
+  <p style="color: darkgray; font-style: italic;">
+    Workflow of analysis for TEs and methylation
+  </p>
+</div>
