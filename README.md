@@ -1,5 +1,7 @@
 ## Biological context
 
+![alt text](https://github.com/OceaneMion/Report_LAB_3/blob/main/Images/bat.png)
+
 White-nose disease, caused by the fungus Pseudogymnoascus destructans, has significantly impacted bat populations in Eurasia and North America. Understanding the evolutionary and pathogenic mechanisms of this fungus is crucial for developing effective strategies against the disease. For this purpose, my internship focused on studying the interplay between transposable elements (TEs) as drivers of genome evolution often found near genes encoding virulence factors, and DNA methylation. DNA methylation, particularly 5-methylcytosine (5mC), is a key epigenetic mechanism that impacts TE dynamics by their silencing, which prevents their transposition and therefore impact on pathogenicity. Using Nanopore sequencing data, I conducted a comparative genomic analysis of 11 pathogenic P. destructans isolates from two lineages (Pd-1, Pd-2) with specialized host preference and a supposed non-pathogenic outgroup (Pseudogymnoascus spp).
 
 ## Bioinformatic pipeline
