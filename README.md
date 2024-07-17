@@ -1,7 +1,11 @@
 ## Biological context
 <div align="center">
   <img src="https://github.com/OceaneMion/Report_LAB_3/blob/main/Images/bat.png" alt="bat" width="800"/>
+  <p style="color: darkgray; font-style: italic;">
+    Photography of a bat infected by Pseudogymnoascus destructans (National Park Service)
+  </p>
 </div>
+
 
 Photography of a bat infected by Pseudogymnoascus destructans (National Park Service)
 
