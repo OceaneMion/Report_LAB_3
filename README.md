@@ -21,7 +21,7 @@ My internship focused on the creation of a bioinformatic pipeline to study the a
 
 * Basecalling (Dorado, Guppy) (See [Basecalling](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/2%29%20Basecalling.ipynb))
 * Control quality (QC) of basecalling (See [QC_analysis](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/3%29%20QC_analysis.ipynb))
-* Adapters trimming from basecall reads (See [Trimming](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/5%29%20Trimming_adapters.ipynb))
+* Adapters trimming from basecall reads (See [Trimming](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/4%29%20Trimming_adapters.ipynb))
 * Assemblies contructs from basecalls reads (See [Assemblies](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/5%29%20Assemblies.ipynb))
 * Polishing of Assemblies (See [Polishing](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/6%29%20Polishing_Assemblies.ipynb))
 * Control quality (QC) of assemblies (See [Quality Assemblies](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/7%29%20Quality_Assembly.ipynb))
