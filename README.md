@@ -1,6 +1,6 @@
 ## Biological context
 <div align="center">
-  <img src="https://github.com/OceaneMion/Report_LAB_3/blob/main/Images/bat.png" alt="bat" width="300"/>
+  <img src="https://github.com/OceaneMion/Report_LAB_3/blob/main/Images/bat.png" alt="bat" width="800"/>
 </div>
 
 
