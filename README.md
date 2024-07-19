@@ -28,7 +28,7 @@ My internship focused on the creation of a bioinformatic pipeline to study the a
 * Contaminants removal (See [Contaminant](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/8%29%20Removing_contaminants.ipynb))
 * Methylation analysis (See [Methylation](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/9%29%20Methylation_analysis.ipynb))
 * TEs analysis (See [TEs](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/10%29%20TEs_analysis.ipynb))
-* Association between methylation and TEs (TO BE UPLOAD SOON)
+* Association between methylation and TEs (See [Association_TEs_methylation](https://github.com/OceaneMion/Report_LAB_3/blob/main/Jupyter%20_Notebook/11%29%20Association_Methylation_TEs.ipynb))
 
 <div align="center">
   <img src="https://github.com/OceaneMion/Report_LAB_3/blob/main/Images/workflow.png" alt="bat" width="800"/>
